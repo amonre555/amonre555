@@ -4,6 +4,6 @@
 </p>
 
 <p align="center"> 
-  Compteur visiteurs<br>
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/SachaGor/count.svg" />
 </p>
