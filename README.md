@@ -12,6 +12,6 @@
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/SachaGor/SachaGor/a681dd2734ae42f4c002cd5492ccf65f8d67224f/github-user-contribution.svg" />
-  Visitor count<br>
+  <br>Visitor count<br>
   <img src="https://profile-counter.glitch.me/SachaGor/count.svg" />
 </p>
